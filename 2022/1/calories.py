@@ -2,6 +2,7 @@
 
 from typing import List, Tuple
 
+# For fun I decided to make a custom doubly linked list
 
 class Elf:
     def __init__(self, calories: int) -> None:
